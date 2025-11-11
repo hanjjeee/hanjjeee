@@ -1,8 +1,10 @@
+<!-- header section -->
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&section=header&height=300&text=JIOREUM&animation=fadeIn)
+&nbsp;&nbsp;&nbsp;&nbsp;
 # 안녕하세요! 👋
 
 <!--
-    상단 배지 섹션: 프로젝트의 상태, 기술 스택 등을 나타내는 배지를 추가하세요.
-    Shields.io (https://shields.io/) 에서 다양한 배지를 생성할 수 있습니다.
+    상단 배지 섹션
 -->
 [![GitHub Followers](https://img.shields.io/github/followers/[당신의_GITHUB_ID]?style=social)](https://github.com/hanjjeee)
 [![Website](https://img.shields.io/badge/Website-Personal-blueviolet?style=flat-square)](https://portfolio-site-9mu.pages.dev)
@@ -13,7 +15,7 @@
 [![C++](https://img.shields.io/badge/Tech-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/hanjjeee)
 
 ---
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 ### 🚀 소개 (About Me)
 
 <!-- ✨ 이모지 사용으로 시각적 강조 및 메시지 전달 효과 증대 -->
@@ -33,7 +35,7 @@
 -->
 
 ---
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 ### 🛠️ 기술 스택 (Skills & Technologies)
 
 제가 주로 사용하는 기술들입니다:
@@ -64,3 +66,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
+&nbsp;
+&nbsp;
+<!-- footer section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&section=header&height=180&animation=fadeIn" width="1500" />
