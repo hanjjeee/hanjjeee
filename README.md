@@ -6,14 +6,16 @@
 <!--
     상단 배지 섹션
 -->
-[![GitHub Followers](https://img.shields.io/github/followers/[당신의_GITHUB_ID]?style=social)](https://github.com/hanjjeee)
+[![GitHub Followers](https://img.shields.io/github/followers/hanjjeee?style=social)](https://github.com/hanjjeee)
 [![Website](https://img.shields.io/badge/Website-Personal-blueviolet?style=flat-square)](https://portfolio-site-9mu.pages.dev)
 [![프로젝트 상태](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/hanjjeee/hanjjeee)
 [![Java](https://img.shields.io/badge/Tech-Java-007396?style=flat-square&logo=java&logoColor=white)](https://github.com/hanjjeee)
 [![Spring Boot](https://img.shields.io/badge/Tech-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/hanjjeee)
 [![Vue.js](https://img.shields.io/badge/Tech-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://github.com/hanjjeee)
 [![C++](https://img.shields.io/badge/Tech-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/hanjjeee)
-
+[![Node.js](https://img.shields.io/badge/Tech-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/hanjjeee)
+[![Hono](https://img.shields.io/badge/Tech-Hono-000000?style=flat-square&logo=hono&logoColor=white)](https://github.com/hanjjeee)
+[![Python](https://img.shields.io/badge/Tech-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/hanjjeee)
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;
 ### 🚀 소개 (About Me)
